@@ -4,9 +4,9 @@
 
 [中文](#背景網頁開啟工具) | [English](#background-web-opener) | [日本語](#バックグラウンドウェブオープナー)
 
-**注意：目前尚未設置GitHub倉庫，無法直接下載可執行檔。若已設置，可透過以下連結下載：[點擊下載最新版本](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/BackgroundWebOpener.exe)。或參考下方「從源碼安裝」的方法。**
+**現在您可以直接從GitHub倉庫下載可執行檔：[點擊下載最新版本](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe)。或參考下方「從源碼安裝」的方法。**
 
-> 最後更新日期: 2025/4/7
+> 最後更新日期: 2023/11/15
 
 ## 背景網頁開啟工具
 
@@ -24,7 +24,7 @@
 
 #### 方法一：直接下載可執行檔（推薦）
 
-1. **注意：目前尚未設置GitHub倉庫，無法直接下載可執行檔。若已設置，可透過以下連結下載：[點擊下載最新版本](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/BackgroundWebOpener.exe)**
+1. **[點擊下載最新版本](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe)**
 2. 下載完成後，直接雙擊執行檔案即可使用
 3. 無需安裝Python或其他依賴項
 
@@ -114,9 +114,9 @@ pyinstaller --onefile --windowed background_web.py
 
 **Version: v1.0.0**
 
-**Note: GitHub repository has not been set up yet. Once set up, you can download the executable file from this link: [Download Latest Version](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/BackgroundWebOpener.exe). Alternatively, you can refer to the "Install from Source Code" method below.**
+**You can now download the executable file directly from the GitHub repository: [Download Latest Version](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe). Alternatively, you can refer to the "Install from Source Code" method below.**
 
-> Last updated: 2025/4/7
+> Last updated: 2023/11/15
 
 This program allows users to open multiple web pages in the background simultaneously, especially suitable for logging in and playing multiple course videos at the same time. It provides various browser settings to enhance the user experience and effectively prevents web page idle logout.
 
@@ -132,7 +132,7 @@ This program allows users to open multiple web pages in the background simultane
 
 #### Method 1: Download Executable File (Recommended)
 
-1. **Note: GitHub repository has not been set up yet. Once set up, you can download the executable file from this link: [Download Latest Version](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/BackgroundWebOpener.exe)**
+1. **[Download Latest Version](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe)**
 2. After downloading, simply double-click the file to use it
 3. No need to install Python or other dependencies
 
@@ -222,9 +222,9 @@ If you find this tool helpful, please consider supporting the developer through 
 
 **バージョン: v1.0.0**
 
-**注意：現在GitHubリポジトリが設定されていないため、実行可能ファイルを直接ダウンロードすることはできません。以下の「ソースコードからインストール」方法を参照するか、開発者に連絡して実行可能ファイルを入手してください。**
+**GitHubリポジトリから実行可能ファイルを直接ダウンロードできるようになりました：[ここをクリックして最新の実行可能ファイル(.exe)をダウンロード](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe)。または、以下の「ソースコードからインストール」方法を参照してください。**
 
-> 最終更新日: 2025/4/7
+> 最終更新日: 2023/11/15
 
 このプログラムは、ユーザーが複数のウェブページを同時にバックグラウンドで開くことを可能にし、特に複数のコース動画に同時にログインして再生するのに適しています。様々なブラウザ設定オプションを提供し、ユーザー体験を向上させ、ウェブページのアイドルログアウトを効果的に防止します。
 
@@ -240,7 +240,7 @@ If you find this tool helpful, please consider supporting the developer through 
 
 #### 方法1：実行可能ファイルをダウンロード（推奨）
 
-1. [ここをクリックして最新の実行可能ファイル(.exe)をダウンロード](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/BackgroundWebOpener.exe)
+1. [ここをクリックして最新の実行可能ファイル(.exe)をダウンロード](https://github.com/musictraveler721217/background_web/releases/latest/download/BackgroundWebOpener.exe)
 2. ダウンロード後、ファイルをダブルクリックするだけで使用できます
 3. Pythonやその他の依存関係をインストールする必要はありません
 

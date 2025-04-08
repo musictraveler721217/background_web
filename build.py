@@ -53,19 +53,28 @@ def build_executable():
         sys.executable, 
         "-m", 
         "PyInstaller",
-        "--name=背景網頁開啟工具",
+        "--name=BackgroundWebOpener",  # 使用英文檔名
         "--onefile",
         "--windowed",
         "--clean",
         "background_web.py"
     ]
     
+    # 刪除中文spec檔案（如果存在）
+    chinese_spec = "背景網頁開啟工具.spec"
+    if os.path.exists(chinese_spec):
+        try:
+            os.remove(chinese_spec)
+            print(f"已刪除舊的中文spec檔案: {chinese_spec}")
+        except Exception as e:
+            print(f"無法刪除中文spec檔案: {e}")
+    
     try:
         subprocess.check_call(cmd)
         print("\n✓ 打包成功！")
         
         # 獲取可執行檔路徑
-        exe_path = os.path.join("dist", "背景網頁開啟工具.exe")
+        exe_path = os.path.join("dist", "BackgroundWebOpener.exe")
         abs_path = os.path.abspath(exe_path)
         
         print(f"\n可執行檔位置: {abs_path}")
@@ -78,7 +87,7 @@ def build_executable():
 
 def main():
     """主函數"""
-    print("===== 背景網頁開啟工具打包程式 =====\n")
+    print("===== Background Web Opener 打包程式 =====\n")
     
     # 檢查當前目錄是否有background_web.py
     if not os.path.exists("background_web.py"):
