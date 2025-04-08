@@ -16,7 +16,7 @@
 
 ### 主要功能
 
-1. 背景開啟多個網頁同時登入播放課程影片，不受干擾（支援無痕模式）
+1. 背景開啟多個網頁同時登入播放課程影片，不受干擾（支援無痕模式）**特別適合看研習影片！**
 2. 進階防閒置功能，透過模擬真實使用者行為防止網頁登出
 3. 使用原本Cookie或模擬Chrome瀏覽器，避免被偵測為非正常瀏覽器
 4. 提供多種瀏覽器設定選項，包括無痕模式、禁用圖片、代理伺服器等
@@ -128,7 +128,7 @@ This program allows users to open multiple web pages in the background simultane
 
 ### Main Features
 
-1. Open multiple web pages in the background to log in and play course videos simultaneously without interference (supports incognito mode)
+1. Open multiple web pages in the background to log in and play course videos simultaneously without interference (supports incognito mode) **Especially great for watching training videos!**
 2. Advanced anti-idle function that prevents webpage logout by simulating real user behavior
 3. Use original cookies or simulate Chrome browser to avoid being detected as an abnormal browser
 4. Provide various browser setting options, including incognito mode, disable images, proxy server, etc.
@@ -240,7 +240,7 @@ If you find this tool helpful, please consider supporting the developer through 
 
 ### 主な機能
 
-1. 複数のウェブページをバックグラウンドで開き、コース動画に同時にログインして再生（シークレットモードをサポート）
+1. 複数のウェブページをバックグラウンドで開き、コース動画に同時にログインして再生（シークレットモードをサポート）**研修ビデオの視聴に最適！**
 2. 実際のユーザー行動をシミュレートすることでウェブページのログアウトを防止する高度なアンチアイドル機能
 3. 元のCookieを使用するか、Chromeブラウザをシミュレートして、異常なブラウザとして検出されるのを回避
 4. シークレットモード、画像の無効化、プロキシサーバーなど、様々なブラウザ設定オプションを提供
