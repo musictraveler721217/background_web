@@ -1,6 +1,12 @@
 # 背景網頁開啟工具 (Background Web Opener) (バックグラウンドウェブオープナー)
 
+**版本: v1.0.0**
+
 [中文](#背景網頁開啟工具) | [English](#background-web-opener) | [日本語](#バックグラウンドウェブオープナー)
+
+**[點擊此處下載最新版本的可執行檔 (.exe)](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)**
+
+> 最後更新日期: 2025/4/7
 
 ## 背景網頁開啟工具
 
@@ -16,12 +22,20 @@
 
 ### 安裝說明
 
-#### 必要條件
+#### 方法一：直接下載可執行檔（推薦）
+
+1. [點擊此處下載最新版本的可執行檔 (.exe)](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)
+2. 下載完成後，直接雙擊執行檔案即可使用
+3. 無需安裝Python或其他依賴項
+
+#### 方法二：從源碼安裝
+
+##### 必要條件
 
 - Python 3.7 或更高版本
 - Google Chrome 瀏覽器
 
-#### 安裝步驟
+##### 安裝步驟
 
 1. 安裝所需的Python套件：
 
@@ -98,6 +112,12 @@ pyinstaller --onefile --windowed background_web.py
 
 ## Background Web Opener
 
+**Version: v1.0.0**
+
+**[Click here to download the latest executable file (.exe)](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)**
+
+> Last updated: 2025/4/7
+
 This program allows users to open multiple web pages in the background simultaneously, especially suitable for logging in and playing multiple course videos at the same time. It provides various browser settings to enhance the user experience and effectively prevents web page idle logout.
 
 ### Main Features
@@ -110,12 +130,20 @@ This program allows users to open multiple web pages in the background simultane
 
 ### Installation Instructions
 
-#### Requirements
+#### Method 1: Download Executable File (Recommended)
+
+1. [Click here to download the latest executable file (.exe)](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)
+2. After downloading, simply double-click the file to use it
+3. No need to install Python or other dependencies
+
+#### Method 2: Install from Source Code
+
+##### Requirements
 
 - Python 3.7 or higher
 - Google Chrome browser
 
-#### Installation Steps
+##### Installation Steps
 
 1. Install the required Python packages:
 
@@ -192,6 +220,12 @@ If you find this tool helpful, please consider supporting the developer through 
 
 ## バックグラウンドウェブオープナー
 
+**バージョン: v1.0.0**
+
+**[ここをクリックして最新の実行可能ファイル(.exe)をダウンロード](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)**
+
+> 最終更新日: 2025/4/7
+
 このプログラムは、ユーザーが複数のウェブページを同時にバックグラウンドで開くことを可能にし、特に複数のコース動画に同時にログインして再生するのに適しています。様々なブラウザ設定オプションを提供し、ユーザー体験を向上させ、ウェブページのアイドルログアウトを効果的に防止します。
 
 ### 主な機能
@@ -204,12 +238,20 @@ If you find this tool helpful, please consider supporting the developer through 
 
 ### インストール手順
 
-#### 必要条件
+#### 方法1：実行可能ファイルをダウンロード（推奨）
+
+1. [ここをクリックして最新の実行可能ファイル(.exe)をダウンロード](https://github.com/musictraveler721217/backgroundweb/releases/latest/download/背景網頁開啟工具.exe)
+2. ダウンロード後、ファイルをダブルクリックするだけで使用できます
+3. Pythonやその他の依存関係をインストールする必要はありません
+
+#### 方法2：ソースコードからインストール
+
+##### 必要条件
 
 - Python 3.7以上
 - Google Chromeブラウザ
 
-#### インストール手順
+##### インストール手順
 
 1. 必要なPythonパッケージをインストールします：
 
